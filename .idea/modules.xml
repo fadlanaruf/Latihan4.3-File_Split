@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/File_Split/File_Split.iml" filepath="$PROJECT_DIR$/File_Split/File_Split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Latihan4.3-File_Split.iml" filepath="$PROJECT_DIR$/.idea/Latihan4.3-File_Split.iml" />
+    </modules>
+  </component>
+</project>
